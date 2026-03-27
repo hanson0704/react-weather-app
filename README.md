@@ -86,6 +86,3 @@ npm run deploy
 **Hanson Vaz**
 
 ---
-
-
-Give it a star ⭐ on GitHub!
