@@ -26,20 +26,6 @@ A responsive weather application built using React that fetches real-time weathe
 
 ---
 
-## 📁 Project Structure
-
-```
-src/
- ├── modules/
- │    ├── CityComponent.js
- │    └── WeatherInfoComponent.js
- ├── App.js
- ├── index.js
- └── index.css
-```
-
----
-
 ## ⚙️ Installation & Setup
 
 1. Clone the repository:
